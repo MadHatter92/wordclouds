@@ -37,3 +37,4 @@ for year in ['2014']:
     wordcloud_generator(year)
 
 # plt.show()
+# this is how it is done
